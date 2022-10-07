@@ -170,17 +170,17 @@ form{
     display: block;
     
 }
- #nav-checkbox:checked~ label #cancel{
+#nav-checkbox:checked~label #cancel{
     display: block;
    
 }
-#nav-checkbox:checked~ label #btn{
+#nav-checkbox:checked~label #btn{
     display: none;
 }
-#nav-checkbox:checked~ form{
+#nav-checkbox:checked~form{
     display: block;
 }
-#nav-checkbox:checked~ .nav-menu li a{
+#nav-checkbox:checked~.nav-menu li a{
     display: block;
 }
 .second:hover{
